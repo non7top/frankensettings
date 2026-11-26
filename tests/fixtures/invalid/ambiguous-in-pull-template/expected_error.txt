@@ -1,0 +1,1 @@
+{template}: key 'k': both 'k' and '=k' present

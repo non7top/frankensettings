@@ -1,0 +1,4 @@
+{
+  "a": "$FS_UNSET_VARIABLE/x",
+  "b": "${FS_UNSET_VARIABLE}"
+}

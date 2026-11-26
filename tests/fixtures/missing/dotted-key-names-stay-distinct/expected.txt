@@ -1,0 +1,9 @@
+Template: template.json
+Target:   target.json
+
+Missing from target (generic template settings not yet in target):
+  + a.b
+
+Missing from template (unmanaged settings in target):
+  ? a
+  ? a.b

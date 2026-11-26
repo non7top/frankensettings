@@ -1,0 +1,9 @@
+{
+  "x": {
+    "permissions": {
+      "allow": [
+        "command(ls)"
+      ]
+    }
+  }
+}

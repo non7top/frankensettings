@@ -1,0 +1,1 @@
+{template}: top level must be a JSON object, got boolean

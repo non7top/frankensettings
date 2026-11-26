@@ -1,0 +1,4 @@
+{
+  "a": "$FS_TEST_DIR/bin",
+  "b": "${FS_TEST_DIR}"
+}

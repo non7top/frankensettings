@@ -1,0 +1,6 @@
+{
+  "exclude": [
+    "secret,token",
+    "extra"
+  ]
+}

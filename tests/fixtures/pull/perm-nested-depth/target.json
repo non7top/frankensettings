@@ -1,0 +1,10 @@
+{
+  "x": {
+    "permissions": {
+      "allow": [
+        "command(cat /tmp/PRIVATE)",
+        "command(ls)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "COMMAND(CAT /HOME/TESTER/PRIVATE)",
+      "Read(/TMP/PRIVATE)",
+      "command(ls)"
+    ]
+  }
+}

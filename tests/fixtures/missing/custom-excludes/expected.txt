@@ -1,0 +1,10 @@
+Template: template.json
+Target:   target.json
+
+Missing from target: (none)
+
+Missing from template (unmanaged settings in target):
+  ? trustedWorkspaces
+
+Excluded private settings present in target (1):
+  * secret

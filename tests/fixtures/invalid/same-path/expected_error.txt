@@ -1,0 +1,1 @@
+{template} and {template} are the same file

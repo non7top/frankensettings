@@ -1,0 +1,5 @@
+{
+  "a": "$HOME/x",
+  "b": "${HOME}/y",
+  "c": "pre-$HOME;post"
+}

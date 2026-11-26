@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:example.com)",
+      "command(curl https://example.com/a/b)",
+      "command(sed s/a/b/)",
+      "command(ls /)",
+      "command(echo a/b)"
+    ]
+  }
+}

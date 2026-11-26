@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "command(python3 /home/tester/PRIVATE.py)",
+      "command(git status)"
+    ]
+  }
+}

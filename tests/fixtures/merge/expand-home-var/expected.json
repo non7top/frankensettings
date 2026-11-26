@@ -1,0 +1,5 @@
+{
+  "a": "/home/tester/x",
+  "b": "/home/tester/y",
+  "c": "pre-/home/tester;post"
+}
