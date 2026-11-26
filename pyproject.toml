@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frankensettings"
-version = "0.0.0"
+version = "0.1.0"
 description = "Keep one settings.json in sync between a public template and a private live file: merge, pull back, and scrub local paths."
 readme = "README.md"
 license = "MIT"
