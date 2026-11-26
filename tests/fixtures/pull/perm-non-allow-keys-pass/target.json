@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "deny": [
+      "command(rm -rf build)"
+    ],
+    "ask": [
+      "command(x)"
+    ],
+    "allow": [
+      "command(ls)"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "command(cat $HOME/PRIVATE)",
+      "command(cat ${HOME}/PRIVATE)",
+      "command(echo $HOMEBREW_PREFIX)"
+    ]
+  }
+}

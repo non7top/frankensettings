@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "command(cat /tmp/PRIVATE.txt)",
+      "command(ls)"
+    ]
+  }
+}

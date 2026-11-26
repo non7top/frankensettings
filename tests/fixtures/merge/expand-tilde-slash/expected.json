@@ -1,0 +1,9 @@
+{
+  "a": "/home/tester/bin/x",
+  "b": [
+    "/home/tester/y",
+    {
+      "c": "/home/tester/z"
+    }
+  ]
+}

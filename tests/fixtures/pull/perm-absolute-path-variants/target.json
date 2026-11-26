@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "/PRIVATE/start",
+      "command(cat /etc/PRIVATE)",
+      "command(x=/PRIVATE y)",
+      "command(cat '/PRIVATE')",
+      "command(cat \"/PRIVATE\")",
+      "Read(//PRIVATE/x)",
+      "command(cd (/PRIVATE))",
+      "command(echo ok)"
+    ]
+  }
+}

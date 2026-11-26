@@ -1,0 +1,5 @@
+{
+  "env": {
+    "FS_TEST_DIR": "/opt/example"
+  }
+}

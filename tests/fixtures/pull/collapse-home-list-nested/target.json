@@ -1,0 +1,11 @@
+{
+  "l": [
+    "/home/tester/a",
+    {
+      "d": "/home/tester/b"
+    }
+  ],
+  "o": {
+    "p": "/home/tester/c"
+  }
+}

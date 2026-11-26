@@ -1,0 +1,12 @@
+{
+  "a": 2,
+  "b": {
+    "c": 1,
+    "e": 3
+  },
+  "extra": 1,
+  "trustedWorkspaces": [
+    "/w"
+  ],
+  "rep": []
+}

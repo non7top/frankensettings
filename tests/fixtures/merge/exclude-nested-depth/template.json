@@ -1,0 +1,10 @@
+{
+  "a": {
+    "b": {
+      "trustedWorkspaces": [
+        "x"
+      ],
+      "n": 1
+    }
+  }
+}

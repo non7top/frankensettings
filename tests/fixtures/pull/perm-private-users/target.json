@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/alice/PRIVATE/**)",
+      "command(ls /USERS/alice/PRIVATE)",
+      "command(ls)"
+    ]
+  }
+}

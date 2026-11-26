@@ -1,0 +1,10 @@
+{
+  "secret": "/w/PRIVATE",
+  "token": [
+    "PRIVATE"
+  ],
+  "kept": 1,
+  "trustedWorkspaces": [
+    "x"
+  ]
+}

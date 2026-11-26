@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "command(git -C PRIVATE log)",
+      "command(git -c core.pager=cat log PRIVATE)",
+      "command(ls)"
+    ]
+  }
+}

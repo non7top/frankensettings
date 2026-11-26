@@ -1,0 +1,9 @@
+{
+  "secret": "s",
+  "token": "t",
+  "extra": "e",
+  "other": 2,
+  "trustedWorkspaces": [
+    "w"
+  ]
+}
